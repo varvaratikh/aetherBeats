@@ -1,0 +1,6 @@
+{
+  "name": "AetherBeats - Футуристический Аудио-Визуализатор",
+  "description": "Интерактивный футуристический визуализатор звука, генерирующий неоновые геометрические фигуры, световые узоры и квантовые частицы в такт голосу, битам и музыке.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
